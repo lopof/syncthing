@@ -1,8 +1,9 @@
 \documentclass[11pt,DIV=12]{scrreprt}
-
+%\documentclass[oneside,a4paper]{book}
+\usepackage{ulem}
 \usepackage{layout}
 \usepackage{glossaries}
-\renewcommand{\glossarysection}[2][]{}
+%\renewcommand{\glossarysection}[2][]{}
 
 \usepackage[linktocpage=true]{hyperref}
 \hypersetup{
@@ -21,10 +22,57 @@
 
 \makeglossaries
 
+\makeatletter
+\newcommand{\nobreakchap}{%
+\renewcommand\chapter{%
+\par\global\@topnum\z@
+\@afterindentfalse
+\secdef\@chapter\@schapter}
+}
+\newcommand{\normalchap}{%
+\renewcommand\chapter{%
+\if@openright\cleardoublepage\else\clearpage\fi
+\thispagestyle{\chapterpagestyle}%
+\global\@topnum\z@
+\@afterindentfalse
+\secdef\@chapter\@schapter}
+}
+\makeatother
+
+
+
 \begin{document}
 
-\input{title}
 
+% Titelseite
+\begin{titlepage}
+	\centering
+	{\scshape\LARGE Berner Fachhochschule \par}
+	{\scshape\Large Departement Technik und Informatik \par}
+	\vspace{0.75cm}
+	\includegraphics[width=0.1\textwidth]{logo_bfh.png}\par
+	\vspace{1.5cm}
+        {\scshape\Large Projekt 1 \par}
+	{\huge\bfseries UPD Vorgänge\par}
+	\vspace{1.1cm}
+	\includegraphics[width=0.3\textwidth]{syncthing}\par
+	\vspace{1cm}
+	{\Large\itshape Thomas Baumann
+	\hspace{1.5cm}
+	 Severin Thalmann\par}
+	\vspace{1.5cm}
+	{\itshape Betreut von\par}
+	Gerhard Schwab\par
+	\vspace{1cm}
+        {\itshape Auftraggeber\par}
+       	Prof. Dr. Andrea Federspiel
+
+        \vfill
+
+	{\large \today\par}
+\end{titlepage}
+
+% Inhalt
 \input{content}
 
 \end{document}
