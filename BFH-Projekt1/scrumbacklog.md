@@ -20,7 +20,7 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 7 | Authentifikation mit Email/LDAP (Out of scope)
 8 | Neue Releases mergen (Out of scope)
 9 | Automatisierung der Distribution und Authentifizierung (Out of scope)
-10 | Dokumentation für Benutzer | Handbuch Admin und Nutzer | Medium | 10 | - | - | Open
+10 | Dokumentation für Benutzer | Handbuch erstellen für Administrator und Nutzer, falls nötig auch Schulungsunterlagen | Medium | 10 | - | - | Open
 11 | Reserve | - | - | 89 | - | - | Open
 
 
