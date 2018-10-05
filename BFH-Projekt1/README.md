@@ -9,9 +9,8 @@
 
 ## Problemstellung
 
-Um das Humanforschungsgesetz (HFG) zu realisieren, sind erhobene Daten so zu behandeln, dass «...Gewährleistung der Rückverfolgbarkeit massgeblichen Bearbeitungsvorgänge dokumentieren». Wegen dieser «Rückverfolgbarkeit» der Daten (d.h. Wer wann was bearbeitet hat), werden momentan bei Studien *** verwendet.
+Um das Humanforschungsgesetz (HFG) zu realisieren, sind erhobene Daten so zu behandeln, dass «...Gewährleistung der Rückverfolgbarkeit massgeblichen Bearbeitungsvorgänge dokumentieren». Diese «Rückverfolgbarkeit» der Daten stellt ein technisch erhebliches Problem dar und ist nicht einfach umzusetzten.
 
 ## Projekt
 
 Ein Prototyp eines dezentralen Speicher Synchronisation Clients erstellen. Konkret heisst das, dass ein Client mit anderen bestimmbaren Clients Daten synchronisiert und dabei eine Versionsverwaltung hat wo man sieht wer wann welche Version erstellt hat. Daten werden allein auf den Clientgeräten gespeichert.
-P2P data sharing. Torrent als Vorbild.
