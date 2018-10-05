@@ -30,7 +30,7 @@ ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2.0 | Syncthing und GO einarbeitung | - | - | - | - | High | 20 | - | - | Open
 2.1 | Autoupdate entfernen | Damit unser System nicht auf die ursprüngliche Version des Syncthing updatet müssen wir diese Funktion entfernen. | Modul Autoupdate | tbh | sth | High | 20 | - | - | Open
-2.2 | Optionen im GUI anpassen/entfernen | Einige Optionen im WEb GUI sind gefährlich und sollen für die Benutzer nicht ersichtlich sein. | Modul GUI | sth | tba| High | 20 | - | - | Open
+2.2 | Optionen im GUI anpassen/entfernen | Einige Optionen im WEb GUI sind gefährlich (kritisch für die korrekte Ausführung des Systems) und sollen für die Benutzer nicht ersichtlich sein. | Modul GUI | sth | tba| High | 20 | - | - | Open
 
 
 
