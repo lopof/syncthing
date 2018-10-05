@@ -25,7 +25,7 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 
 
 
-## Backlog Sprint 1 8.10.2018 - 21.10.2018
+## Backlog Sprint 1 (8.10.2018 - 21.10.2018)
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2.0 | Syncthing und GO einarbeitung | - | - | - | - | High | 20 | - | - | Open
