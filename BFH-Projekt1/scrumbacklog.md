@@ -5,7 +5,7 @@ Name | GitHub Alias | Function
 Thomas Baumann | lopof | Developer
 Severin Thalmann | manfred00 | Developer
 
-Gesamtzeit für Projekt 1: 494 //
+Gesamtzeit für Projekt 1: 494 | 
 Gesamtzeit für Anforerdungsspezifikationen im Modul Projektmanagement: 26
 
 ## Product Backlog
