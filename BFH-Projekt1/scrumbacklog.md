@@ -12,11 +12,11 @@ Gesamtzeit für Anforerdungsspezifikationen im Modul Projektmanagement: 26
 ID | Storyname | Description | Priority | Effort plan original | Effort plan updated | Effort acutal | Status
 --- | --- | --- | --- | --- | --- | --- | ---
 1 | Anforderungsspezifikation | Dokument Anforderungsspezifikation schreiben | High | 26 | - | - | Open
-2 | Überflüssige Module entfernen | Module die momentan im Syncthing Projekt integriert sind und nicht relevant sind für unser Projekt sollen entfernt werden. Dazu gehören: Autoupdate auf die neuste Version von Syncthing, Optionen im GUI welche wir nicht brauchen. | High |140 | - | - | Open
-3 | Versionisierung anpassen | - | High | 100 | - | - | Open
-4 | Konflikthandling testen | - | High | 10 | - | - | Open
-5 | Log der Versionisierung | – | High | 110 | – | – | Open
-6 | UPD eigenes Relay aufsetzen | – | Low | 35 | - | - | Open
+2 | Überflüssige Module entfernen | Module die momentan im Syncthing Projekt integriert sind und nicht relevant sind für unser Projekt sollen entfernt werden. Dazu gehören: Autoupdate auf die neuste Version von Syncthing, Optionen im GUI welche wir nicht brauchen. | High |140 | - | - | Open
+3 | Versionisierung anpassen | Bei der momentanen Versionierung wird momentan im Dateinamen das Datum und die Uhrzeit gespeichert, zusätzlich soll im Dateinamen ersichtlich sein wer die Datei bearbeitet hat. | High | 100 | - | - | Open
+4 | Konflikthandling testen | Das Konflikthandling ist momentan integriert. Diese muss getestet und auf ihre Funktionalität geprüft werden. | High | 10 | - | - | Open
+5 | Log der Versionisierung | In einer Versionskonsole sollen alle Versionen verwaltet werden können. Der momentane Log zeigt nur die letzten x Aenderungen. | High | 110 | – | – | Open
+6 | UPD eigenes Relay aufsetzen | Damit die Uebertragung über das Internet funktioniert braucht es Relays, weil nicht jedes Gerät eine eigene IP-Adresse besitzt. Diese Relays sind momentan Fremdgehostet. Ziel wäre ein eigenes Relay aufzusetzen und dem System dieses Relay anzugeben. | Low | 35 | - | - | Open
 7 | Authentifikation mit Email/LDAP (Out of scope)
 8 | Neue Releases mergen (Out of scope)
 9 | Automatisierung der Distribution und Authentifizierung (Out of scope)
@@ -29,8 +29,8 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2.0 | Syncthing und GO einarbeitung | - | - | - | - | High | 20 | - | - | Open
-2.1 | Autoupdate entfernen | - | Modul Autoupdate | tbh | sth | High | 20 | - | - | Open
-2.2 | Optionen im GUI anpassen/entfernen | - | Modul GUI | sth | tba| High | 20 | - | - | Open
+2.1 | Autoupdate entfernen | Damit unser System nicht auf die ursprüngliche Version des Syncthing updatet müssen wir diese Funktion entfernen. | Modul Autoupdate | tbh | sth | High | 20 | - | - | Open
+2.2 | Optionen im GUI anpassen/entfernen | Einige Optionen im WEb GUI sind gefährlich und sollen für die Benutzer nicht ersichtlich sein. | Modul GUI | sth | tba| High | 20 | - | - | Open
 
 
 
