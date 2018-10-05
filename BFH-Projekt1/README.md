@@ -9,7 +9,7 @@
 
 ## Problemstellung
 
-Um das Humanforschungsgesetz (HFG) zu realisieren, sind erhobene Daten so zu behandeln, dass «...Gewährleistung der Rückverfolgbarkeit massgeblichen Bearbeitungsvorgänge dokumentieren». Diese «Rückverfolgbarkeit» der Daten stellt ein technisch erhebliches Problem dar und ist nicht einfach umzusetzten.
+Um das Humanforschungsgesetz (HFG) zu realisieren, sind erhobene Daten so zu behandeln, dass «...Gewährleistung der Rückverfolgbarkeit massgeblichen Bearbeitungsvorgänge dokumentieren». Diese «Rückverfolgbarkeit» der Daten stellt ein technisch erhebliches Problem dar und ist nicht einfach umzusetzten. Zusätzlich handelt es sich um pseudonymisierte Patientendaten, welche besonders Schützenswert sind.
 
 ## Projekt
 
