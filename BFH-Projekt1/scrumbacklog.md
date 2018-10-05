@@ -28,9 +28,9 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 ## Backlog Sprint 1
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2.0 | Syncthing und GO einarbeitung | - | - | - | High | 20 | - | - | Open
+2.0 | Syncthing und GO einarbeitung | - | - | - | - | High | 20 | - | - | Open
 2.1 | Autoupdate entfernen | - | Modul Autoupdate | tbh | sth | High | 20 | - | - | Open
-2.2 | Optionen im GUI anpassen/entfernen | - | Modul GUI | sth | tba| 20 | - | - | Open
+2.2 | Optionen im GUI anpassen/entfernen | - | Modul GUI | sth | tba| | High | 20 | - | - | Open
 
 
 
