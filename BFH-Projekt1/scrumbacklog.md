@@ -30,7 +30,7 @@ ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2.0 | Syncthing und GO einarbeitung | - | - | - | - | High | 20 | - | - | Open
 2.1 | Autoupdate entfernen | - | Modul Autoupdate | tbh | sth | High | 20 | - | - | Open
-2.2 | Optionen im GUI anpassen/entfernen | - | Modul GUI | sth | tba| | High | 20 | - | - | Open
+2.2 | Optionen im GUI anpassen/entfernen | - | Modul GUI | sth | tba| High | 20 | - | - | Open
 
 
 
