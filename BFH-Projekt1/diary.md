@@ -47,8 +47,9 @@ Task | Grade
 #### 05.10.2018
 - (All) Kickoff Meeting
 - Todo:
-  - [x] (team) Kapitel 3 überarbeiten
+  - [x] (team) Anforderungsspezifikationen Kapitel 3 überarbeiten
   - [x] (team) Scrum backlog / Projektplanung und Sprint 1 erstellen
+  - [ ] (tba) Anforderungsspezifikationen anpassen
   
 
 
