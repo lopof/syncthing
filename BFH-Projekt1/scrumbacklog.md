@@ -9,6 +9,8 @@ Severin Thalmann | manfred00 | Developer
 ## Product Backlog
 ID | Storyname | Description | Priority | Effort plan original | Effort plan updated | Effort acutal | Status
 --- | --- | --- | --- | --- | --- | --- | ---
+1 | Anforderungsspezifikation | Dokument Anforderungsspezifikation schreiben | High | - | - | - | Open
+
 
 ## Backlog Sprint 1
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
