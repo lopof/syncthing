@@ -1,6 +1,6 @@
 # Projekt P2PDSV
 
-## Stackholder
+## Stakeholder
 
 * Gerhard Schwab - Projektbetreuer
 * Andrea Federspiel - Auftraggeber
