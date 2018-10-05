@@ -12,7 +12,7 @@ Gesamtzeit für Anforerdungsspezifikationen im Modul Projektmanagement: 26
 ID | Storyname | Description | Priority | Effort plan original | Effort plan updated | Effort acutal | Status
 --- | --- | --- | --- | --- | --- | --- | ---
 1 | Anforderungsspezifikation | Dokument Anforderungsspezifikation schreiben | High | 26 | - | - | Open
-2 | Überflüssige Module entfernen| - | High | 140 | - | - | Open
+2 | Überflüssige Module entfernen | Module die momentan im Syncthing Projekt integriert sind und nicht relevant sind für unser Projekt sollen entfernt werden. Dazu gehören: Autoupdate auf die neuste Version von Syncthing, Optionen im GUI welche wir nicht brauchen. | High |140 | - | - | Open
 3 | Versionisierung anpassen | - | High | 100 | - | - | Open
 4 | Konflikthandling testen | - | High | 10 | - | - | Open
 5 | Log der Versionisierung | – | High | 110 | – | – | Open
