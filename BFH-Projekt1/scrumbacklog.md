@@ -28,7 +28,7 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 ## Backlog Sprint 1 (8.10.2018 - 21.10.2018)
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2.0 | Syncthing und GO einarbeitung | - | - | - | - | High | 20 | - | - | Open
+2.0 | Syncthing und GO Einarbeitung | Da wir beide keine Erfahrung haben mit GO und noch nichts mit dem Open Source Projekt Syncthing zu tun hatten, ist eine gewisse Einarbeitungszeit nötig. | - | - | - | High | 20 | - | - | Open
 2.1 | Autoupdate entfernen | Damit unser System nicht auf die ursprüngliche Version des Syncthing updatet müssen wir diese Funktion entfernen. | Modul Autoupdate | tbh | sth | High | 20 | - | - | Open
 2.2 | Optionen im GUI anpassen/entfernen | Einige Optionen im WEb GUI sind gefährlich (kritisch für die korrekte Ausführung des Systems) und sollen für die Benutzer nicht ersichtlich sein. | Modul GUI | sth | tba| High | 20 | - | - | Open
 
