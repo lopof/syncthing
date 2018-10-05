@@ -6,12 +6,12 @@ Thomas Baumann | tba
 Severin Thalmann | sth
 
 ### Meetings
-Date, Time | Attendance | Minutes 
------------|------------|--------
-21.09.2018, 08:30 | tba, sth | 360
-26.09.2018 | tba, sth | 90
-28.09.2018 | tba, sth | 360
-
+Date, Time | Attendance 
+-----------|------------
+21.09.2018 | tba, sth 
+26.09.2018 | tba, sth
+28.09.2018 | tba, sth
+05.10.2018 | tba, sth, Andrea Federspiel, Gerhard Schwab
 
 ### Evaluation
 Task | Grade
@@ -38,10 +38,17 @@ Task | Grade
   - [ ] (team) Data security, wie werden die Daten übertragen?
   
   
-  #### 26.09.2018
+#### 28.09.2018
+- Todo:
   - [x] (team) Kapitel 1-3 schreiben der Anforderungsspezifikationen
   - [x] (team) Github Repository einrichten
   - [x] (tba) Vergleich momentanes System zum Projekt aufzeigen
+  
+#### 05.10.2018
+- (All) Kickoff Meeting
+- Todo:
+  - [x] (team) Kapitel 3 überarbeiten
+  - [x] (team) Scrum backlog / Projektplanung und Sprint 1 erstellen
   
 
 
