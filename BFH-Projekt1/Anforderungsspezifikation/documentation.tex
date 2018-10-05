@@ -3,7 +3,7 @@
 \usepackage{ulem}
 \usepackage{layout}
 \usepackage{glossaries}
-%\renewcommand{\glossarysection}[2][]{}
+\renewcommand{\glossarysection}[2][]{}
 
 \usepackage[linktocpage=true]{hyperref}
 \hypersetup{
@@ -14,13 +14,13 @@
     urlcolor=black
 }
 
+\makeglossaries
+
 \usepackage{longtable}
 \usepackage{booktabs}
 \usepackage{tabularx}
 \usepackage{graphicx}
 \usepackage{float}
-
-\makeglossaries
 
 \makeatletter
 \newcommand{\nobreakchap}{%
@@ -38,8 +38,6 @@
 \secdef\@chapter\@schapter}
 }
 \makeatother
-
-
 
 \begin{document}
 
