@@ -16,6 +16,11 @@
     
     git push
     git push --tags
+    
+### Neuer Branch erstellen aus tag
+
+    git branch newbranch v0.x.y.xy
+    git push -u origin <branch>
 
 #### Vorgehen beim Projekt
 
