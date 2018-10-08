@@ -18,5 +18,5 @@
 
 #### Vorgehen beim Projekt
 
-    Der Master des forkes wird nicht verändert. Wir werden einen eigenen MasterXY erstellen und diesem mit 
+    Der Master des forkes wird nicht verändert. Wir werden einen eigenen MasterXY erstellen und diesen mit 
     dem neusten update des syncthing/Master mergen. 
