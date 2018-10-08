@@ -12,6 +12,6 @@
 
     git pull upstream master
     
-### 4. Push your fork so the github repositry
+### 4. Push your fork to the github repositry
     
     git push
