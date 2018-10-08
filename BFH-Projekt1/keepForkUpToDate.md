@@ -15,8 +15,9 @@
 ### 4. Push your fork to the github repositry
     
     git push
+    git push --tags
 
 #### Vorgehen beim Projekt
 
     Der Master des forkes wird nicht verändert. Wir werden einen eigenen MasterXY erstellen und diesen mit 
-    dem neusten update des syncthing/Master mergen. 
+    dem neusten update (tag v.x.y.xy) des syncthing/Master mergen. 
