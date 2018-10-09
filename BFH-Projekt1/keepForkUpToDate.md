@@ -24,5 +24,6 @@
 
 #### Vorgehen beim Projekt
 
-    Der Master des forkes wird nicht verändert. Wir werden einen eigenen MasterXY erstellen und diesen mit 
-    dem neusten update tag (v0.x.y.xy) des syncthing/Master mergen. 
+    Der master des forkes wird nicht verändert. Wir werden einen eigenen MasterBFH erstellen und diesen mit 
+    dem neusten update tag (v0.x.y.xy) des syncthing Projekts mergen.
+    Der MasterBFH ist ein branch des tag v0.14.51. Alle weiteren branchs sollen vom MasterBFH branch erstellt werden.
