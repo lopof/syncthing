@@ -220,9 +220,11 @@ The following are valid values for the STTRACE variable:
 // Environment options
 var (
 	// Can be set to anything then it is enabled - disable is ""
+	// Geaendert von lopof 08.10.2018 von != "" zu != "STNOUPGRADE"
 	noUpgradeFromEnv = os.Getenv("STNOUPGRADE") != "STNOUPGRADE"
-	innerProcess     = os.Getenv("STNORESTART") != "" || os.Getenv("STMONITORED") != ""
-	noDefaultFolder  = os.Getenv("STNODEFAULTFOLDER") != ""
+	// ----
+	innerProcess    = os.Getenv("STNORESTART") != "" || os.Getenv("STMONITORED") != ""
+	noDefaultFolder = os.Getenv("STNODEFAULTFOLDER") != ""
 )
 
 type RuntimeOptions struct {
