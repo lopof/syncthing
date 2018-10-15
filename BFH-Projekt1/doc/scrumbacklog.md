@@ -22,6 +22,7 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 9 | Automatisierung der Distribution und Authentifizierung (Out of scope)
 10 | Dokumentation für Benutzer | Handbuch erstellen für Administrator und Nutzer, falls nötig auch Schulungsunterlagen | Medium | 10 | - | - | Open
 11 | Reserve | - | - | 89 | - | - | Open
+12 | Eigener Discovery Server aufsetzen (Out of scope)
 
 
 
