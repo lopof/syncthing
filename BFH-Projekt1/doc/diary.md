@@ -12,6 +12,7 @@ Date, Time | Attendance
 26.09.2018 | tba, sth
 28.09.2018 | tba, sth
 05.10.2018 | tba, sth, Andrea Federspiel, Gerhard Schwab
+12.10.2018 | tba, sth
 
 ### Evaluation
 Task | Grade
@@ -28,7 +29,7 @@ Task | Grade
 - (team) Anforderungsspezifikationen bestimmen
 - Todo:
   - [x] (tba) Kickoff Meeting organisieren
-  - [ ] (team) Dokument Anforderungsspezifikationen erstellen und Kapitel 1-3 schreiben
+  - [x] (team) Dokument Anforderungsspezifikationen erstellen und Kapitel 1-3 schreiben
   - [x] (tba) Versionierungsmöglichkeiten ergründen
   - [ ] (sth) Gerätekennung mit Emailadresse - LDAP
   - [x] (tba) Kann der Code bei Windows, MAC und (Linux) gleichermassen verwendet werden
@@ -49,7 +50,13 @@ Task | Grade
 - Todo:
   - [x] (team) Anforderungsspezifikationen Kapitel 3 überarbeiten
   - [x] (team) Scrum backlog / Projektplanung und Sprint 1 erstellen
-  - [ ] (tba) Anforderungsspezifikationen anpassen
+  - [x] (tba) Anforderungsspezifikationen anpassen
+  
+#### 12.10.2018
+- (team) Anforderungsspezifikationen Kapitel 5 besprochen
+- Todo:
+  - [x] (team) Anforderungsspezifikationen Kapitel 4 überarbeiten
+  - [ ] (team) Anforderungsspezifikationen Kapitel 5 
   
 
 
