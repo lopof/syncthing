@@ -26,3 +26,8 @@
 ### TODO
 
 * Eigenes Relay aufbauen
+
+
+### Probleme
+
+* Bei lokalem verschieben/umbennenen vom Ordner könnte die synchronisation nicht mehr funktionieren. Die Daten werden wahrscheinlich sogar gelöscht auf den synchronisierten Geräten.
