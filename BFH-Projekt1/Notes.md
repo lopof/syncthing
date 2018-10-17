@@ -26,6 +26,8 @@
 ### TODO
 
 * Eigenes Relay aufbauen
+* Eigener Upgrade Server
+* Eigener Discovery Server
 
 
 ### Probleme
