@@ -3,7 +3,10 @@
 \usepackage{ulem}
 \usepackage{layout}
 \usepackage{glossaries}
+\usepackage{xcolor}
+\usepackage[english,ngerman]{babel}
 \renewcommand{\glossarysection}[2][]{}
+\renewcommand*{\glstextformat}[1]{\textcolor{blue}{#1}}
 
 \usepackage[linktocpage=true]{hyperref}
 \hypersetup{
@@ -13,8 +16,6 @@
     linkcolor=black,
     urlcolor=black
 }
-
-\makeglossaries
 
 \usepackage{longtable}
 \usepackage{booktabs}
@@ -39,8 +40,9 @@
 }
 \makeatother
 
-\begin{document}
+\makeglossaries
 
+\begin{document}
 
 % Titelseite
 \begin{titlepage}
